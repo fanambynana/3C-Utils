@@ -1,0 +1,14 @@
+{
+  "name": "3c-utils",
+  "version": "1.0.0",
+  "description": "Input & Output manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "author": "fanambynana",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
