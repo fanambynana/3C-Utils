@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Input & Output manager",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"No test specified\" && exit 1"
   },
